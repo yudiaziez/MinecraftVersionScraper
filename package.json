@@ -1,0 +1,21 @@
+{
+	"name": "minecraftversionscraper",
+	"version": "1.0.0",
+	"description": "A Simple Minecraft Version Scraper from getbukkit to get the versions and their download url",
+	"main": "src/index.js",
+	"scripts": {
+      "start": "node src/index.js",
+      "dev": "nodemon src/index.js"
+    },
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Jodu555/MinecraftVersionScraper.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Jodu555/MinecraftVersionScraper/issues"
+	},
+	"homepage": "https://github.com/Jodu555/MinecraftVersionScraper#readme"
+}
