@@ -1,17 +1,20 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
+const fs = require('fs');
 
 (async () => {
     let versions = await getVersionsAndGetterUrl();
-
     // await getterLinkToDowmnloadUrl('https://getbukkit.org/get/68aef01121494a41fe71890b81d69d07');
-    await Promise.all(
-        versions = Object.entries(versions).map(async ([k, v]) => {
+    versions = await Promise.all(
+        versions.map(async v => {
             const downloadUrl = await getterLinkToDowmnloadUrl(v.getUrl);
             return { ...v, downloadUrl }
-        }));
+        })
+    );
 
     console.log(versions);
+    console.log(JSON.stringify(versions, null, 3));
+    fs.writeFileSync('out.json', JSON.stringify(versions, null, 3), 'utf-8');
 
 })();
 

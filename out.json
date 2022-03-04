@@ -1,0 +1,247 @@
+[
+   {
+      "version": "1.18.1",
+      "getUrl": "https://getbukkit.org/get/bf7ac3b5bc08ea97d22919680d240a80",
+      "downloadUrl": "https://download.getbukkit.org/spigot/spigot-1.18.1.jar"
+   },
+   {
+      "version": "1.18",
+      "getUrl": "https://getbukkit.org/get/3d9266f4af6057da7696026b2c8ab59f",
+      "downloadUrl": "https://download.getbukkit.org/spigot/spigot-1.18.jar"
+   },
+   {
+      "version": "1.17.1",
+      "getUrl": "https://getbukkit.org/get/bf44510c50ddefccbaee1379c1f751de",
+      "downloadUrl": "https://download.getbukkit.org/spigot/spigot-1.17.1.jar"
+   },
+   {
+      "version": "1.17",
+      "getUrl": "https://getbukkit.org/get/67c4d7b1f88726687c09137464efed99",
+      "downloadUrl": "https://download.getbukkit.org/spigot/spigot-1.17.jar"
+   },
+   {
+      "version": "1.16.5",
+      "getUrl": "https://getbukkit.org/get/RD0y91OTotryPrElNQe4ovBLDNweoO5Z",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.16.5.jar"
+   },
+   {
+      "version": "1.16.4",
+      "getUrl": "https://getbukkit.org/get/MvbtKzCMFRVUPyKHvZ0cmiThXiiTSe92",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.16.4.jar"
+   },
+   {
+      "version": "1.16.3",
+      "getUrl": "https://getbukkit.org/get/gE0q5n55ASwgaQDavi0Bd3eA1u6gcJ4A",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.16.3.jar"
+   },
+   {
+      "version": "1.16.2",
+      "getUrl": "https://getbukkit.org/get/7LUCnzySfT9MMjs7oKi6SVW9ABSFQOTO",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.16.2.jar"
+   },
+   {
+      "version": "1.16.1",
+      "getUrl": "https://getbukkit.org/get/fDoqnvFqdhjFcURmY7Oqtzu0giKFAiyY",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.16.1.jar"
+   },
+   {
+      "version": "1.15.2",
+      "getUrl": "https://getbukkit.org/get/hJhavPDjhYFfqjyPAibsKAJecPpl7Z2V",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.15.2.jar"
+   },
+   {
+      "version": "1.15.1",
+      "getUrl": "https://getbukkit.org/get/1eb34a7d4db660bb88d02b6c8845957c",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.15.1.jar"
+   },
+   {
+      "version": "1.15",
+      "getUrl": "https://getbukkit.org/get/f7a491b66aa48e6c27951bea8eb0a96e",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.15.jar"
+   },
+   {
+      "version": "1.14.4",
+      "getUrl": "https://getbukkit.org/get/68aef01121494a41fe71890b81d69d07",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.14.4.jar"
+   },
+   {
+      "version": "1.14.3",
+      "getUrl": "https://getbukkit.org/get/OXb8OjkAKGTsilBzqRFLVHieYtApFLIa",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.14.3.jar"
+   },
+   {
+      "version": "1.14.2",
+      "getUrl": "https://getbukkit.org/get/rOScz7MyLKUMBoi0E0JcE70Mw7xpTkjk",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.14.2.jar"
+   },
+   {
+      "version": "1.14.1",
+      "getUrl": "https://getbukkit.org/get/7bOYW7B8tGXIbjU0lnomOa0fzL1q7PES",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.14.1.jar"
+   },
+   {
+      "version": "1.14",
+      "getUrl": "https://getbukkit.org/get/X4NhV4o180euQ3sd2noaYxUovXfspBIa",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.14.jar"
+   },
+   {
+      "version": "1.13.2",
+      "getUrl": "https://getbukkit.org/get/QMerkBxNGNl3EnQl8gACGfWuJnJtJuWB",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.13.2.jar"
+   },
+   {
+      "version": "1.13.1",
+      "getUrl": "https://getbukkit.org/get/Qfl9O9F65B2GaPvSPRDb89U0Sa7GNaUj",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.13.1.jar"
+   },
+   {
+      "version": "1.13",
+      "getUrl": "https://getbukkit.org/get/uedXO8YBkhXjZwDTUVfO85a7DzAn01aD",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.13.jar"
+   },
+   {
+      "version": "1.12.2",
+      "getUrl": "https://getbukkit.org/get/Fpt2yFn7HRTrot5uE1b8NFWtpQlYITgK",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.12.2.jar"
+   },
+   {
+      "version": "1.12.1",
+      "getUrl": "https://getbukkit.org/get/eIspoUd16rvAedlPFbWoixwdWvVzH1Uf",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.12.1.jar"
+   },
+   {
+      "version": "1.12",
+      "getUrl": "https://getbukkit.org/get/5de3b1b274cdfa6dc8d9ce338e340a22",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.12.jar"
+   },
+   {
+      "version": "1.11.2",
+      "getUrl": "https://getbukkit.org/get/FnLNb42htOpfvn3NaEmYKXGmptFx4CjU",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.11.2.jar"
+   },
+   {
+      "version": "1.11.1",
+      "getUrl": "https://getbukkit.org/get/PjKHpa0uqjBsBspBqRJ9KqGnrOk1RFad",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.11.1.jar"
+   },
+   {
+      "version": "1.11",
+      "getUrl": "https://getbukkit.org/get/kKRwYhR9rYKVNqdYDWRS4imesZtxrIkp",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.11.jar"
+   },
+   {
+      "version": "1.10.2",
+      "getUrl": "https://getbukkit.org/get/GE9W5jg4MkD62LHEDIC6BiijPbkxoWb3",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.10.2-R0.1-SNAPSHOT-latest.jar"
+   },
+   {
+      "version": "1.10",
+      "getUrl": "https://getbukkit.org/get/fEz2lZqYIFfzdPbyKQyq41EePiAcYgHW",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.10-R0.1-SNAPSHOT-latest.jar"
+   },
+   {
+      "version": "1.9.4",
+      "getUrl": "https://getbukkit.org/get/aVtd1rm66P6ut7XRlr5BzInJ409qEFCo",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.9.4-R0.1-SNAPSHOT-latest.jar"
+   },
+   {
+      "version": "1.9.2",
+      "getUrl": "https://getbukkit.org/get/7VixMoIblTnCdTeJeXVXRW5pcQ1XRzJi",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.9.2-R0.1-SNAPSHOT-latest.jar"
+   },
+   {
+      "version": "1.9",
+      "getUrl": "https://getbukkit.org/get/jVOffEqHFAlYjYFvN7eUa7CVQ9utK1Hf",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.9-R0.1-SNAPSHOT-latest.jar"
+   },
+   {
+      "version": "1.8.8",
+      "getUrl": "https://getbukkit.org/get/hNiHm0tuqAg1Xg7w7zudk63uHr0xo48D",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar"
+   },
+   {
+      "version": "1.8.7",
+      "getUrl": "https://getbukkit.org/get/ZfA7Vh1Su9xUo43wJsQ9eT4EtOyCQlIM",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.8.7-R0.1-SNAPSHOT-latest.jar"
+   },
+   {
+      "version": "1.8.6",
+      "getUrl": "https://getbukkit.org/get/CxDnpIsOg4ZnOv7UfIMf8iOyVYPjWlX1",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.8.6-R0.1-SNAPSHOT-latest.jar"
+   },
+   {
+      "version": "1.8.5",
+      "getUrl": "https://getbukkit.org/get/Nzt8ugpvQN7vpQvpiZzf3NqxCh4OgyEC",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.8.5-R0.1-SNAPSHOT-latest.jar"
+   },
+   {
+      "version": "1.8.4",
+      "getUrl": "https://getbukkit.org/get/xbGOoq96qVM11glAHHcTWPk5eh6m6CRv",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.8.4-R0.1-SNAPSHOT-latest.jar"
+   },
+   {
+      "version": "1.8.3",
+      "getUrl": "https://getbukkit.org/get/zId4E0jbd76ubLgiVP5aMfYoiJXFCYGf",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.8.3-R0.1-SNAPSHOT-latest.jar"
+   },
+   {
+      "version": "1.8",
+      "getUrl": "https://getbukkit.org/get/WAH0jXqYA2s3Gzzg3toWHG1R3lHNCNZY",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.8-R0.1-SNAPSHOT-latest.jar"
+   },
+   {
+      "version": "1.7.10",
+      "getUrl": "https://getbukkit.org/get/jWPoIQARZsxCjUaqXgj2UwcQWqQdUYDo",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.7.10-SNAPSHOT-b1657.jar"
+   },
+   {
+      "version": "1.7.9",
+      "getUrl": "https://getbukkit.org/get/cV7cdkEtUZtsphLBfCVDlPhyJgjjU7Fl",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.7.9-R0.2-SNAPSHOT.jar"
+   },
+   {
+      "version": "1.7.8",
+      "getUrl": "https://getbukkit.org/get/YTYtYcRGzJAOdmQPhDZZn61dcfooa84n",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.7.8-R0.1-SNAPSHOT.jar"
+   },
+   {
+      "version": "1.7.5",
+      "getUrl": "https://getbukkit.org/get/q084rUh9FQIkKsEm806J7C6VFUuD5qvU",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.7.5-R0.1-SNAPSHOT-1387.jar"
+   },
+   {
+      "version": "1.7.2",
+      "getUrl": "https://getbukkit.org/get/pNcKEbnVEmAccBdxJOf7dR3bF19Td3cq",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.7.2-R0.4-SNAPSHOT-1339.jar"
+   },
+   {
+      "version": "1.6.4",
+      "getUrl": "https://getbukkit.org/get/REwrpCh6mMnUa0P41aGkD4qFPovoN8zm",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.6.4-R2.1-SNAPSHOT.jar"
+   },
+   {
+      "version": "1.6.2",
+      "getUrl": "https://getbukkit.org/get/QTe2gi4zCP8J7OBKNIf9V0hyIu0gFdUi",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.6.2-R1.1-SNAPSHOT.jar"
+   },
+   {
+      "version": "1.5.2",
+      "getUrl": "https://getbukkit.org/get/tkNg9YxulAy0eO5f50WzijtK03qJLs6r",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.5.2-R1.1-SNAPSHOT.jar"
+   },
+   {
+      "version": "1.5.1",
+      "getUrl": "https://getbukkit.org/get/wTxqiQqJRxhL4qAiPR1zHSxtLx2RzY6Y",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.5.1-R0.1-SNAPSHOT.jar"
+   },
+   {
+      "version": "1.4.7",
+      "getUrl": "https://getbukkit.org/get/YZ4WcsFdKdqlMuJFhFRobcDmJNYoWL0l",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.4.7-R1.1-SNAPSHOT.jar"
+   },
+   {
+      "version": "1.4.6",
+      "getUrl": "https://getbukkit.org/get/29mixbrJ32rlDGLn8L3dIe4jvkLPdgom",
+      "downloadUrl": "https://cdn.getbukkit.org/spigot/spigot-1.4.6-R0.4-SNAPSHOT.jar"
+   }
+]
